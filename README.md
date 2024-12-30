@@ -3,12 +3,12 @@ This is a weigting method for regression of imbalanced datasets with known domai
 
 ## How to use it
 Please refer to example.py for how to use it.
-### input
+### Input
 1. Your data file containing features and targets.
 2. Importance type: upper, lower, or both. Upper means the greater the targets, the more important they are.
 3. Regression model. This method include four commonly used regression models, linear regression (lr), gradient boosting regression (gbr), random forest (rf) and neural network (nn)
 
-### output
+### Output
 Predictions of testing samples.
 
 ## Contact us
